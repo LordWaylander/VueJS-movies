@@ -8,3 +8,4 @@ cd /path/to/app
 npm run dev
 ```
 ![Page d'accueil](https://github.com/LordWaylander/VueJS-movies/blob/main/accueil.png)
+![Coups de Coeur](https://github.com/LordWaylander/VueJS-movies/blob/main/coups-de-coeurs.png)
