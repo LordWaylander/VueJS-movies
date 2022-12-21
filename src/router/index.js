@@ -13,7 +13,6 @@ const router = createRouter({
     {
       path: '/userlist',
       name: 'userlist',
-      //chargé uniquement quand visitée
       component: Likes,
     },
     {
